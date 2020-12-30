@@ -8,4 +8,6 @@ public interface CategoryDao {
 
     List<Category> queryByCategory();
 
+    List<Category> queryAll();
+
 }
