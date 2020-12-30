@@ -28,7 +28,10 @@ class IdeaTests {
         System.out.println("===");
         int aa=30;
         int bb=20;
+        int a = 20;
+        int b = 30;
         int c=bb-aa;
+        int cc = a + b;
     }
 
 }
