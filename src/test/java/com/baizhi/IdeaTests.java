@@ -18,6 +18,7 @@ class IdeaTests {
         System.out.println(a);
         System.out.println(a);
         System.out.println(a);
+        String str="aaa";
     }
 
     public void tests() {
