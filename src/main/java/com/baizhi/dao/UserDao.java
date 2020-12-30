@@ -11,4 +11,5 @@ public interface UserDao {
     List<User> queryAll();
 
     List<User> queryAlls();
+    List<User> queryAllss();
 }
