@@ -19,6 +19,9 @@ class IdeaTests {
 
     public void tests() {
         System.out.println("===");
+        System.out.println("===");
+        System.out.println("===");
+        System.out.println("===");
     }
 
 }
