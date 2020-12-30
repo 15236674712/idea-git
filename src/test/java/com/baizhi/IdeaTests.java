@@ -26,6 +26,9 @@ class IdeaTests {
         System.out.println("===");
         System.out.println("===");
         System.out.println("===");
+        int a = 20;
+        int b = 30;
+        int c = a + b;
     }
 
 }
