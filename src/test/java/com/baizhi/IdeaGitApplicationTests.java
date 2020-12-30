@@ -8,6 +8,7 @@ class IdeaGitApplicationTests {
 
     @Test
     void contextLoads() {
+        int a = 20;
     }
 
 }
