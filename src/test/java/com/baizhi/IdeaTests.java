@@ -26,6 +26,9 @@ class IdeaTests {
         System.out.println("===");
         System.out.println("===");
         System.out.println("===");
+        int aa=30;
+        int bb=20;
+        int c=bb-aa;
     }
 
 }
