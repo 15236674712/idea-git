@@ -17,4 +17,8 @@ class IdeaTests {
         System.out.println(a);
     }
 
+    public void tests() {
+        System.out.println("===");
+    }
+
 }
